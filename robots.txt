@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://globaro.space/sitemap.xml
+Sitemap: https://gobaseer.pro/sitemap.xml
